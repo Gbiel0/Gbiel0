@@ -2,7 +2,7 @@
 **Seja bem vindo(a) ao meu perfil!**
 > "Por vezes, são as pessoas de quem nada se imagina as que realizam feitos que ninguém poderia imaginar." – Alan Turing 🎩🪄
 
-Olá! Sou Gabriel, estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento de software e resolução de problemas usando tecnologia. Trabalho com C e C++, e possuo conhecimentos em HTML, CSS e JavaScript. Atualmente, estou me aprofundando em Java e buscando aprimorar minhas habilidades em desenvolvimento backend. Estou sempre em busca de novos aprendizados e projetos desafiadores.
+Olá! Sou Gabriel, estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento de software e resolução de problemas usando tecnologia. Trabalho com C, e possuo conhecimentos em HTML, CSS e JavaScript. Atualmente, estou me aprofundando em Java e buscando aprimorar minhas habilidades em desenvolvimento backend. Estou sempre em busca de novos aprendizados e projetos desafiadores.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garcia-0b4715304/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgarcia1156@gmail.com)
