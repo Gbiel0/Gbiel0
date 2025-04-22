@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Gbiel0
-- 👀 I’m interested in Programming languages, software development, and technology trends.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
-- 💞️ I’m looking to collaborate on projects in the technology industry, particularly in software development, web development and programming.
-- 📫 How to reach me ggcontact25@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Bass and Guitar player.
+# 🎸 Gabriel Garcia
+**Seja bem vindo(a) ao meu perfil!**
+> "Por vezes, são as pessoas de quem nada se imagina as que realizam feitos que ninguém poderia imaginar." – Alan Turing 🎩🪄
 
-<!---
-Gbiel0/Gbiel0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Sou Gabriel, estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento de software e resolução de problemas usando tecnologia. Trabalho com C e C++, e possuo conhecimentos em HTML, CSS e JavaScript. Atualmente, estou me aprofundando em Java e buscando aprimorar minhas habilidades em desenvolvimento backend. Estou sempre em busca de novos aprendizados e projetos desafiadores.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garcia-0b4715304/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgarcia1156@gmail.com)
+---
+## 🤖 Linguagens e Tecnologias
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/+esm" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/+esm" />
+<br/>
+
+---
+## 📊 Estatísticas
+| ![Gbiel0 GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbiel0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbiel0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| --- | --- |
